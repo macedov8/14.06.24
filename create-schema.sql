@@ -1,0 +1,1 @@
+CREATE SCHEMA `salinet_tur` ;
